@@ -4,7 +4,6 @@ let resultados = document.getElementById("resultado");
 
 
 function adicionarAmigo() {
-    console.log
     let conteudo = document.getElementById("amigo");
     // console.log(conteudo.tagName);
 
